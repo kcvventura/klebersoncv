@@ -23,6 +23,7 @@ body,section {
     min-width: 260px;
     padding-left: 20px;
     padding-right: 20px;
+    height: 100%;
 }
 
 h1 {
@@ -140,7 +141,6 @@ main {
 /* FINAL das ABAS*/
 
 .footer {
-  float: inherit;
   padding-top: 20px;
   padding-bottom: 10px;
 	position:absolute;
@@ -162,7 +162,7 @@ main {
 }
 
 .portifolio{
-  margin: 0em 0 3em 0;
+  margin: 3em 0 3em 0;
 }
 
 .blockquote {
