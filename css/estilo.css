@@ -91,9 +91,11 @@ a:hover {
     background-image: linear-gradient(transparent, transparent 4px, #ff0090 4px, #ff0090);
 }
 
-.wrapper {
+
+.content {
   min-height: 100%;
-  margin-bottom: -50px;
+  padding: 20px;
+  padding-bottom: 50px;
 }
 
 
@@ -109,6 +111,7 @@ label.clear {
   text-align: center;
   color: #bbb;
   border: 1px solid transparent;
+  font-size: large;
 }
 
 label.clear:hover {
@@ -170,7 +173,7 @@ main {
 }
 
 .portifolio{
-  margin: 2em 0 3em 0;
+  margin: 0 0 5em 0;
 }
 
 .blockquote {
@@ -191,7 +194,8 @@ main {
 }
 
 li {
-  line-height: 5px;
+  line-height: 0.5em;
+  padding-top: 0em;
 }
 
 .acss, .acss:hover {
