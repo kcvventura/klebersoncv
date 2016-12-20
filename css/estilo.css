@@ -11,7 +11,7 @@ body,section {
     line-height: 1.725;
     align-items: center;
     text-rendering: geometricPrecision;
-    text-align: -webkit-auto;
+    text-align: justify;
     display: flex;
     flex-direction: column;
     /*-moz-osx-font-smoothing: grayscale;
@@ -140,6 +140,7 @@ main {
 /* FINAL das ABAS*/
 
 .footer {
+  float: inherit;
   padding-top: 20px;
   padding-bottom: 10px;
 	position:absolute;
