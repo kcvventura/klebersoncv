@@ -6,7 +6,7 @@ body,section {
     color: #c9cacc;
     background-color: #1d1f21;
     font-size: 100%;
-    font-family: 'Space Mono', monospace;
+    font-family: "Menlo", "Meslo LG", monospace;
     font-weight: 400;
     line-height: 1.725;
     align-items: center;
@@ -14,18 +14,15 @@ body,section {
     text-align: justify;
     display: flex;
     flex-direction: column;
-
-    padding-left: 3%;
-    padding-right: 3%;
-    font-size: 100%;
     /*-moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;*/
+    -webkit-font-smoothing: antialiased;
+    width: 100%;*/
     max-width: 45rem;
     margin-left: auto;
     margin-right: auto;
     min-width: 260px;
-    /*padding-left: 20px;
-    padding-right: 20px;*/
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 h1 {
@@ -164,7 +161,7 @@ main {
 }
 
 .portifolio{
-  margin: 3em 0 3em 0;
+  margin: 2em 0 3em 0;
 }
 
 .blockquote {
