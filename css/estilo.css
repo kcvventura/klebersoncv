@@ -112,6 +112,7 @@ label.clear {
   color: #bbb;
   border: 1px solid transparent;
   font-size: large;
+  font-weight: 400
 }
 
 label.clear:hover {
